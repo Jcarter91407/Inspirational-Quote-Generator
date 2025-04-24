@@ -1,2 +1,2 @@
 # Inspirational-Quote-Generator
-First Project on GitHub
+A simple and easy app you can use to generate inspirational quotes to give you motivation to start your day.
